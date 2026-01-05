@@ -84,48 +84,6 @@ Product Descriptions ('product\_descriptions/')
 
 
 
-Project Structure
-
-=================
-
-python-file-handling-ecommerce/
-
-│
-
-├── README.md
-
-├── file\_handling\_project.ipynb
-
-├── requirements.txt
-
-├── .gitignore
-
-│
-
-├── mainfolder/
-
-│ ├── sales\_data.csv
-
-│ ├── product\_details/
-
-│ │ └── details\_.json
-
-│ └── product\_descriptions/
-
-│ └── description\_.txt
-
-│
-
-└── output/
-
-├── sales\_data.csv
-
-├── product\_details/
-
-└── product\_descriptions/
-
-
-
 Functionalities Implemented
 
 ===========================
